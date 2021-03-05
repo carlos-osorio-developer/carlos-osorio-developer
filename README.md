@@ -4,9 +4,9 @@
 
 # Hello! I'm Carlos (he/him).
 
-I'm an electronic engineer with a passion for code and web developing. I am styding hard at Microverse to become an international full stack developer. At the end of the program I will be skilled at technical skills such as Ruby, Rails, JavaScript, React and Redux.
+I'm an electronic engineer with a passion for code and web developmen. I am studying hard at Microverse to become an international full-stack developer. At the end of the program, I will be skilled at technical skills such as Ruby, Rails, JavaScript, React, and Redux.
 
-Also, I will have a lot of experience with scrum, teamwork and professional soft skills.
+Also, I will have a lot of experience with scrum, teamwork, and professional soft skills.
 
 ## My GitHub activity:
 
