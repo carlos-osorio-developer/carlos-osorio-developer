@@ -1,8 +1,5 @@
 ![banner top](https://user-images.githubusercontent.com/78050026/110169108-30c2c700-7dc6-11eb-9902-34e2228a98d6.png)
 
-[<img align="center" alt="carlos-osorio-developer.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][portfolio]
-[<img align="center" alt="Carlos Osorio | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://www.linkedin.com/in/carlos-osorio-developer/]
-[<img align="center" alt="Carlos Osorio | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][https://twitter.com/OsorioDevelops]
 
 # Hello! I'm Carlos (he/him).
 
@@ -22,9 +19,15 @@ https://github-readme-stats.vercel.app/api?username=carlos-osorio-developer&show
 * Ruby & Ruby on Rails
 * SQL
 
-## Reach me on social media:
-[<img align="center" alt="carlos-osorio-developer.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][portfolio]
-[<img align="center" alt="Carlos Osorio | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://www.linkedin.com/in/carlos-osorio-developer/]
-[<img align="center" alt="Carlos Osorio | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][https://twitter.com/OsorioDevelops]
+## Reach me on the network:
 
-![banner bottom](https://user-images.githubusercontent.com/78050026/110169139-3ddfb600-7dc6-11eb-8915-44d291d292c1.png)
+<p align="center">
+  <a href="mailto:osorio.uis@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+  <a href="https://www.linkedin.com/in/carlos-osorio-developer/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://twitter.com/OsorioDevelops" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
+  <a href="https://api.whatsapp.com/send?phone=573014611183" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp"></a>
+</p>
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/78050026/110169139-3ddfb600-7dc6-11eb-8915-44d291d292c1.png" alt="banner-bottom">
+</p>
