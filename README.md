@@ -9,7 +9,7 @@ Also, I will have a lot of experience with scrum, teamwork and professional soft
 
 ## My GitHub activity:
 
-https://github-readme-stats.vercel.app/api?username=carlos-osorio-developer&show_icons=true&hide_border=true
+<img align="left" alt="Carlos Osorio's Github Stats" src="https://github-readme-stats.vercel.app/api?username=carlos-osorio-developer&show_icons=true&hide_border=true"/>
 
 ## Coding Languages:
 
