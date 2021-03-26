@@ -11,6 +11,8 @@ Also, I will have a lot of experience with scrum, teamwork, and professional sof
 ## My GitHub activity:
 
 <img align="center" alt="Carlos Osorio's Github Stats" src="https://github-readme-stats.vercel.app/api?username=carlos-osorio-developer&show_icons=true&hide_border=true"/>
+<br>
+<img align="center" alt="Carlos Osorio's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlos-osorio-developer&layout=compact&langs_count=6"/>
 
 ## Coding Languages:
 
