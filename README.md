@@ -16,9 +16,9 @@ Also, I will have a lot of experience with scrum, teamwork, and professional sof
 
 ## Coding Languages:
 
-* Javascript & Node.js
+* JavaScript & Node.js
 * React & Redux
-* Python
+* PHP
 * Ruby & Ruby on Rails
 * SQL
 
