@@ -11,13 +11,13 @@ I am currently available for hire! :tada:
 ### Languages and Tools:
 
 <div>
-<img align="left" alt="HTML5" width="36px" style="margin: 3px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="36px" style="margin: 3px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="36px" style="margin: 3px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /><img align="left" alt="Ruby" width="56px" style="margin: 3px;" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/ruby/ruby.png" /><img align="left" alt="Rails" width="56px" style="margin: 3px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rails/rails.png" />
-<img align="left" alt="MySQL" width="36px" style="margin: 3px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="Git" width="36px" style="margin: 3px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /><img align="left" alt="GitHub" width="56px" style="margin: 3px;" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Visual Studio Code" width="36px" style="margin: 3px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>
- </div>
+    <img align="left" title="HTML 5" width="36px" style="margin: 3px;" src="https://user-images.githubusercontent.com/78050026/126838005-90fe0254-d722-4af1-869c-bab9b73a5b42.png" />
+    <img align="left" title="CSS 3" width="36px" style="margin: 3px;" src="https://user-images.githubusercontent.com/78050026/126838216-8fa9e309-14eb-4736-91ac-a89cf7053510.png" />
+    <img align="left" title="JavaScript" width="36px" style="margin: 3px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /><img align="left" title="Ruby" width="36px" style="margin: 3px;" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/ruby/ruby.png" /><img align="left" title="Rails" width="36px" style="margin: 3px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rails/rails.png" />
+    <img align="left" title="MySQL" width="36px" style="margin: 3px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+    <img align="left" title="Git" width="36px" style="margin: 3px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /><img align="left" title="GitHub" width="36px" style="margin: 3px;" src="https://user-images.githubusercontent.com/78050026/126837004-618ac7df-fb82-4a8b-90d0-3869d966f232.png" />
+    <img align="left" title="Visual Studio Code" width="36px" style="margin: 3px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>
+     </div></br></br>
  
 * HTML & CSS
 * JavaScript & Node.js
