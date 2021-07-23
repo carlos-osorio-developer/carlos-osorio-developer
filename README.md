@@ -2,25 +2,35 @@
 
 
 
-# Hello! I'm Carlos (he/him).
+# Hi there! I am Carlos Osorio, a Fullstack Developer, true story! :sunglasses:
 
-I'm an electronic engineer with a passion for code and web development. I am studying hard at Microverse to become an international full-stack developer. At the end of the program, I will be skilled at technical skills such as Ruby, Rails, JavaScript, React, and Redux.
+I am also an electronic engineer with a master's degree in digital systems. I am studying really hard at Microverse to become an international full-stack developer. I have experience in technical skills such as Ruby, Rails, JavaScript, React, and Redux. Also, I have a lot of experience with scrum, teamwork, and multicultural communication.
 
-Also, I will have a lot of experience with scrum, teamwork, and professional soft skills.
+I am currently available for hire! :tada: 
+
+### Languages and Tools:
+
+<div>
+<img align="left" alt="HTML5" width="36px" style="margin: 3px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="36px" style="margin: 3px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="JavaScript" width="36px" style="margin: 3px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /><img align="left" alt="Ruby" width="56px" style="margin: 3px;" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/ruby/ruby.png" /><img align="left" alt="Rails" width="56px" style="margin: 3px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rails/rails.png" />
+<img align="left" alt="MySQL" width="36px" style="margin: 3px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<img align="left" alt="Git" width="36px" style="margin: 3px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /><img align="left" alt="GitHub" width="56px" style="margin: 3px;" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="Visual Studio Code" width="36px" style="margin: 3px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>
+ </div>
+ 
+* HTML & CSS
+* JavaScript & Node.js
+* React & Redux
+* PHP
+* Ruby & Ruby on Rails
+* SQL & Databases
 
 ## My GitHub activity:
 
 <img align="center" alt="Carlos Osorio's Github Stats" src="https://github-readme-stats.vercel.app/api?username=carlos-osorio-developer&show_icons=true&hide_border=true"/>
 <br>
 <img align="center" alt="Carlos Osorio's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlos-osorio-developer&layout=compact&langs_count=6"/>
-
-## Coding Languages:
-
-* JavaScript & Node.js
-* React & Redux
-* PHP
-* Ruby & Ruby on Rails
-* SQL
 
 ## Reach me on the network:
 
