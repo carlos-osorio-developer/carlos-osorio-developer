@@ -4,7 +4,7 @@
 
 # Hi there! I am Carlos Osorio, a Fullstack Developer, true story! :sunglasses:
 
-I am also an electronic engineer with a master's degree in digital systems. I am studying really hard at Microverse to become an international full-stack developer. I have experience in technical skills such as Ruby, Rails, JavaScript, React, and Redux. Also, I have a lot of experience with scrum, teamwork, and multicultural communication.
+I am also an electronic engineer with a master's degree in digital systems. I am studying and learning every single day, to become an international full-stack developer. I have experience in technical skills such as Ruby, Rails, JavaScript, React, and Redux. Also, I have a lot of experience with scrum, teamwork, and multicultural communication.
 
 I am currently available for hire! :tada: 
 
