@@ -20,7 +20,7 @@ I am currently available for hire! :tada:
      </div></br></br>
  
 * HTML & CSS
-* JavaScript & Node.js
+* ES6 JavaScript
 * React & Redux
 * PHP
 * Ruby & Ruby on Rails
